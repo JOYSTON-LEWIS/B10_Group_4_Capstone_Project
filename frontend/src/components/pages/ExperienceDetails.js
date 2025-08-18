@@ -1,14 +1,14 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { baseUrl } from "../../url";
+import { crudUrl } from "../../url";
 
 export default function ExperienceDetails(props) {
   const { id } = useParams()
   const [data, setData] = useState()
 
   useEffect(()=>{
-    axios.get(`${baseUrl}/trip/${id}`)
+    axios.get(`${crudUrl}/trip/${id}`)
     .then((res) => {
       console.log(res.data)
       setData(res.data)
