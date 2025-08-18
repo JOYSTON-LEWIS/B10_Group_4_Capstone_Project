@@ -2,12 +2,12 @@ import React, { useEffect, useState } from "react";
 import Card from "../UIC/Card";
 import FeaturedCard from "../UIC/FeaturedCard";
 import axios from "axios";
-import { baseUrl } from "../../url";
+import { crudUrl } from "../../url";
 
 export default function Home() {
   const [data, setData] = useState();
   useEffect(() => {
-    axios.get(`${baseUrl}/trip/`).then((res) => setData(res.data));
+    axios.get(`${crudUrl}/trip/`).then((res) => setData(res.data));
   }, []);
   if (data) {
     return (
