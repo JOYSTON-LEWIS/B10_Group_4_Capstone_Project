@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo "Hello from branch frontend"
+                echo "Hello from branch backend"
             }
         }
     }
