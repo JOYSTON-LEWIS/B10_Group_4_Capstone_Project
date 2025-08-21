@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3002;
 app.use(express.json());
 app.use(cors());
 
-app.get("/hello", (req, res) => {
+app.get("/hellos", (req, res) => {
   res.json({ message: "Hello from Hello Service 🚀" });
 });
 
