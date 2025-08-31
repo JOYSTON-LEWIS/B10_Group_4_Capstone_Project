@@ -147,14 +147,14 @@ Before setting up Jenkins, ensure the following:
 
 ---
 
-## ⚙️ AWS Configurations
+## ⚙️ Github Configurations
 
-### 📸 Jenkins Configuration Screenshots
+![GITHUB_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/GITHUB_01.png)
+
+## ⚙️ AWS Configurations
 
 ![AWS_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/AWS_01.png)
 ![AWS_02](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/AWS_02.png)
-
-## ⚙️ Jenkins Configurations
 
 ### 📦 EC2 Instance Minimum Requirements
 - **Operating System**: Ubuntu 24.04 LTS  
