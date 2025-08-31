@@ -151,6 +151,8 @@ Before setting up Jenkins, ensure the following:
 
 ![GITHUB_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/GITHUB_01.png)
 
+---
+
 ## ⚙️ AWS Configurations
 
 ![AWS_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/AWS_01.png)
@@ -292,7 +294,20 @@ sudo systemctl restart jenkins
 ![JENKINS_17](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_17.png)
 ![JENKINS_18](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_18.png)
 
-## 📸 Final Deployment Screenshots:
+---
+
+## 🚀 Final Deliverables (Deployment and Testing):
+
+### 📌 Deliverable:
+
+📄 **Jenkinsfile** → Located at:  
+```text
+./Jenkinsfile
+```
+
+---
+
+### 📸 Screenshots:
 
 ![OUTPUT_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_01.png)
 ![OUTPUT_02](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_02.png)
