@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // SSH Connecitvity Variables
-        CONST_EC2_IP_ADDRESS = "13.233.232.149"
+        CONST_EC2_IP_ADDRESS = "3.108.185.177"
         CONST_EC2_USER       = "ubuntu"
         
         // AWS & Infra Credentials
@@ -53,7 +53,7 @@ pipeline {
 
         // ANSIBLE  -- DEPLOYMENT SECTION
         // CONST_ANS_EKS_CLUSTER_NODE_ARN = "arn:aws:iam::975050024946:role/jl-vb-im-capstone-project-eks-node-role"
-        CONST_ANS_SSH_IP = "13.233.232.149"
+        CONST_ANS_SSH_IP = "3.108.185.177"
         CONST_ANS_SSH_USER = "ubuntu"
         CONST_ANS_EKS_CLUSTER_NODE_NAME = "jl_vb_im_capstone_project_eks_node_role"
         // CONST_ANS_SSH_PRIVATE_KEY = credentials('SECRETS_EC2_SSH_PRIVATE_KEY')
