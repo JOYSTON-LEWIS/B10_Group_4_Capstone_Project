@@ -1,4 +1,4 @@
-# End-to-End DevOps Pipeline for a Web Application with CI/CD (B10 Group_4_Capstone_Project)
+# End-to-End DevOps Pipeline for a Web Application with CI/CD (B10_Group_4_Capstone_Project)
 
 ## 📌 Problem Statement:  
 - DevOps teams require a CI/CD pipeline to streamline the development and deployment process, ensuring that changes are consistently tested, built, and deployed   across environments. 
